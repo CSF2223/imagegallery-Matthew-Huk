@@ -75,7 +75,7 @@ p{
         font-size: 1.6rem;
     }
     
-    .gallery{
+    .gallery{ 
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
